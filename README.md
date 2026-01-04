@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pruthviraj Patil</h1>
 <h3 align="center">A passionate Software Devloper</h3>
 
-![logo](https://raw.githubusercontent.com/pruthvirajpatil2024/pruthviraj-patil-2024/main/GIT_HUB%20_BANNER.png)
+![GitHub Banner](https://raw.githubusercontent.com/pruthvirajpatil2024/pruthvirajpatil2024/main/GIT_HUB_BANNER.png)
 
 <br>
 <br>
